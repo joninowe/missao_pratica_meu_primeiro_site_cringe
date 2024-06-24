@@ -11,11 +11,6 @@
 * Disciplina: Missão Prática | Nível 1 | Mundo 2 | Meu primeiro site "cringe"
 * Aluno: Jonathan Inowe | Matricula: 202311117502
 <hr>
- <h1 align="center"> Missão Prática | Nível 1 |Mundo 2 </h1>
- <h3 align="left" >Implementação de um site voltado para o fornecimento de receitas culinárias, com a
-utilização apenas de HTML e CSS. </h3> 
-
- <hr>
 
  <h2>Objetivos da Prática </h2>
 
