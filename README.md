@@ -26,17 +26,17 @@ utilização apenas de HTML e CSS. </h3>
   
 <hr>
 
-<h2>Pagina Inicial</h2>
-  <a href="https://github.com/Gregdev22/Meu-primeiro-site-cringe/blob/main/Receitas/Captura%20de%20tela%202024-01-17%20112851.png">
-      <img src="https://github.com/Gregdev22/Meu-primeiro-site-cringe/blob/main/Receitas/Captura%20de%20tela%202024-01-17%20112851.png" width="540" height="360">
+<h2>Home</h2>
+  <a href="https://github.com/joninowe/meu_primeiro_site_cringe/blob/main/Screenshot_1.jpg">
+      <img src="https://github.com/joninowe/meu_primeiro_site_cringe/blob/main/Screenshot_1.jpg" width="540" height="360">
   </a>
   
 <h2> Receitas </h2>
-  <a href="https://github.com/Gregdev22/Meu-primeiro-site-cringe/blob/main/Receitas/Captura%20de%20tela%202024-01-17%20112900.png">
-      <img src="https://github.com/Gregdev22/Meu-primeiro-site-cringe/blob/main/Receitas/Captura%20de%20tela%202024-01-17%20112900.png" alt="estacio logo" width="540" height="360">
+  <a href="https://github.com/joninowe/meu_primeiro_site_cringe/blob/main/Screenshot_2.jpg">
+      <img src="https://github.com/joninowe/meu_primeiro_site_cringe/blob/main/Screenshot_2.jpg" alt="estacio logo" width="540" height="360">
   </a>
 
 <h2> Cadastro </h2>
-  <a href="https://github.com/Gregdev22/Meu-primeiro-site-cringe/blob/main/Receitas/Captura%20de%20tela%202024-01-17%20112915.png">
-      <img src="https://github.com/Gregdev22/Meu-primeiro-site-cringe/blob/main/Receitas/Captura%20de%20tela%202024-01-17%20112915.png" alt="estacio logo" width="540" height="360">
+  <a href="https://github.com/joninowe/meu_primeiro_site_cringe/blob/main/Screenshot_3.jpg">
+      <img src="https://github.com/joninowe/meu_primeiro_site_cringe/blob/main/Screenshot_3.jpg" alt="estacio logo" width="540" height="360">
   </a>
